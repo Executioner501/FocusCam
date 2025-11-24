@@ -24,7 +24,7 @@ if not cap.isOpened():
 CROP_SIZE = 64  # The same size your model was trained on
 IMG_SIZE = (CROP_SIZE, CROP_SIZE)
 FONT = cv2.FONT_HERSHEY_SIMPLEX
-THRESHOLD = 0.2 # Confidence threshold for 'yawn'
+THRESHOLD = 0.33 # Confidence threshold for 'yawn'
 # Note: Check your 'Classes found:' output. 
 # If 'yawn' is 0 and 'no_yawn' is 1, change this to:
 # if confidence < THRESHOLD: 

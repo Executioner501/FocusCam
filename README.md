@@ -85,6 +85,3 @@ Press `f`, `l`, `r`, `u`, `d` to label the direction you are looking (forward, l
   <a href="https://github.com/Executioner501/FocusCam/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=Executioner501/FocusCam" />
   </a>
-  <a href="https://github.com/CrownDestro/CrownDestro/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=CrownDestro/CrownDestro" />
-  </a>

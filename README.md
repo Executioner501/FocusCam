@@ -81,9 +81,10 @@ python gazefarm.py
 Press `f`, `l`, `r`, `u`, `d` to label the direction you are looking (forward, left, right, up, down) and the script will automatically save cropped eye images to the `eye_dataset` directory.
 
 ### Contributors
+
+  <a href="https://github.com/Executioner501/FocusCam/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Executioner501/FocusCam" />
+  </a>
   <a href="https://github.com/CrownDestro/CrownDestro/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=CrownDestro/CrownDestro" />
-  </a>
-  <a href="https://github.com/Executioner501/Executioner501/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Executioner501/Executioner501" />
   </a>
